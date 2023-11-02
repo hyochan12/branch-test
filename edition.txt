@@ -6,4 +6,4 @@ issue resolved
 =======
 hotfix my solution
 team's solution
->>>>>>> testing
+new function added
